@@ -49,7 +49,7 @@ const Home = () => {
 
         <button
           style={{
-            backgroundColor: "#3498db",
+            backgroundColor: "#7aa1bf",
             color: "#fff",
             padding: "1rem 2rem",
             border: "none",
@@ -67,7 +67,7 @@ const Home = () => {
         </button>
 
         {showForm && (
-          <div style={{ marginTop: "2rem", position: "relative" }}>
+          <div style={{ marginTop: "1rem", position: "relative" }}>
             <SendMail toggleForm={toggleForm} />
           </div>
         )}
