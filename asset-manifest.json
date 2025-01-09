@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/highstreetdental/static/css/main.50fc72f3.css",
+    "main.js": "/highstreetdental/static/js/main.d9c92735.js",
+    "static/media/teeth-whitening.jpeg": "/highstreetdental/static/media/teeth-whitening.c28790483c1d6d33cdcd.jpeg",
+    "static/media/bg.jpg": "/highstreetdental/static/media/bg.8ee03faf33051464096a.jpg",
+    "static/media/smilrdesignnew.jpg": "/highstreetdental/static/media/smilrdesignnew.2e64133134b6c6977b24.jpg",
+    "static/media/rct.jpg": "/highstreetdental/static/media/rct.e94f5f4ecb5a6d32876e.jpg",
+    "static/media/tpol.jpg": "/highstreetdental/static/media/tpol.fdc8be4e7ceb8aeb54ad.jpg",
+    "static/media/istockphoto-1419156177-612x612.jpg": "/highstreetdental/static/media/istockphoto-1419156177-612x612.2c4359ec80665b977919.jpg",
+    "static/media/df.jpg": "/highstreetdental/static/media/df.a7f14c15e90175385248.jpg",
+    "static/media/invb.jpg": "/highstreetdental/static/media/invb.85812954f020e8921a17.jpg",
+    "static/media/dent.webp": "/highstreetdental/static/media/dent.a6475e26c55de1f19947.webp",
+    "static/media/dimp.webp": "/highstreetdental/static/media/dimp.02f59c20f8f1878a14d7.webp",
+    "static/media/dcv.jpg": "/highstreetdental/static/media/dcv.e28f861c5e89bb29b1d8.jpg",
+    "index.html": "/highstreetdental/index.html",
+    "main.50fc72f3.css.map": "/highstreetdental/static/css/main.50fc72f3.css.map",
+    "main.d9c92735.js.map": "/highstreetdental/static/js/main.d9c92735.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50fc72f3.css",
+    "static/js/main.d9c92735.js"
+  ]
+}
