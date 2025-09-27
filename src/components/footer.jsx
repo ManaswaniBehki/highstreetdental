@@ -85,7 +85,7 @@ const Footer = () => {
       <div style={{ marginTop: "1.5rem" }}>
   <FaRegCopyright style={{ marginRight: "5px" }} />
   <span>
-    HighStreet Dental Clinic - Noida. All Rights Reserved. Contact us at{" "}
+    HighStreet Dental Clinic - Noida Sec 104. All Rights Reserved. Contact us at{" "}
     <a
       href="mailto:adityabehki104@gmail.com"
       style={{
