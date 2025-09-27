@@ -43,8 +43,8 @@ const Home = () => {
           Welcome to HighStreet Dental Clinic
         </h1>
         <p style={{ fontSize: "1.2rem", maxWidth: "600px", margin: "0 auto 2rem" }}>
-          We are dedicated to providing exceptional dental care in a warm and friendly environment.
-          At Highstreet Dental Clinic, your oral health is our priority, and we are committed to making every visit a positive experience for you and your family. If you reside near sector-104,sector-100,sector-110,sector-75 and sector-76 Noida, we might just be one of your nearest and most reliable clinic.
+          HighStreet Dental Clinic is dedicated to providing exceptional dental care in a warm and friendly environment. We are trained to be the best dentists for your care.
+          At Highstreet Dental Clinic, your oral health is our priority, and we are committed to making every visit a positive experience for you and your family. If you are looking for dentists near sector-104,sector-100,sector-110,sector-75 and sector-76 Noida, we might just be one of your nearest and most reliable clinic.
         </p>
 
         {/* <button
