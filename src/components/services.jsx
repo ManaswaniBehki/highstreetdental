@@ -19,7 +19,7 @@ const services = [
   { name: 'Root Canal Treatment', description: 'Save your natural teeth with our pain-free root canal treatments, offering a long-term solution to infected or damaged teeth. We prioritize comfort and care to restore the function of your smile.', bgimg: rct },
   { name: 'Dental Crowns', description: 'Revitalize your smile with custom dental crowns and veneers that restore the strength, shape, and appearance of damaged teeth. Enjoy a natural-looking, flawless smile with our advanced options.', bgimg: dcv },
   { name: 'Dentures', description: 'Restore full function and aesthetics with our custom dentures, designed for comfort and natural-looking results. Our high-quality dentures help you smile with confidence and improve your ability to eat and speak.', bgimg: dent },
-  { name: 'Invisible Braces', description: 'Achieve a straighter smile discreetly with our invisible braces, designed to straighten teeth without the use of traditional metal brackets. Comfortable and effective, these braces fit your lifestyle seamlessly.', bgimg: invb },
+  { name: 'Invisible Braces', description: 'Achieve a straighter smile discreetly with our invisible braces, designed to straighten teeth without the use of traditional metal brackets. Comfortable and effective, these braces fit your lifestyle seamlessly.Find these braces and aligners in Noida Sector 104!', bgimg: invb },
 ];
 
 const Services = () => {

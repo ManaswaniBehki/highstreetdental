@@ -60,7 +60,7 @@ const About = () => {
       >
        
 
-Welcome to HighStreet Dental Clinic, Noida's premier destination for world-class dental care. Our team consists of the region's finest dental surgeons, with MDS specialists in every major field of dentistry, including Orthodontics, Endodontics, Periodontics, Prosthodontics, Oral & Maxillofacial Surgery, Pedodontics, and Oral Pathology. We pride ourselves on delivering a full spectrum of dental services, from preventive care to complex restorative and cosmetic procedures. Equipped with state-of-the-art technology and driven by a passion for excellence, we are committed to providing personalized treatment in a warm, patient-centric environment. At HighStreet Dental Clinic, your healthiest, most confident smile is our priority!
+Welcome to HighStreet Dental Clinic, Noida's premier destination for world-class dental care. Our team consists of the region's finest dental surgeons, with MDS specialists in every major field of dentistry, including Orthodontics, Endodontics, Periodontics, Prosthodontics, Oral & Maxillofacial Surgery, Pedodontics, and Oral Pathology. We pride ourselves on delivering a full spectrum of dental services, from preventive care to complex restorative and cosmetic procedures. Equipped with state-of-the-art technology and driven by a passion for excellence, we are committed to providing personalized treatment in a warm, patient-centric environment. At HighStreet Dental Clinic, your healthiest, most confident smile is our priority! We aim to become one of the best dental clinics in Noida Sector 104, inspired to make your smiles beautiful!
       </p>
 
       

@@ -4,9 +4,9 @@ import clinicBackground from "../components/bg.jpg"; // Update path.
 import "./Home.css";
 
 const Home = () => {
-  const [showForm, setShowForm] = useState(false); // Track the form visibility
+  // const [showForm, setShowForm] = useState(false); // Track the form visibility
 
-  const toggleForm = () => setShowForm(!showForm); // Toggles the form visibility
+  // const toggleForm = () => setShowForm(!showForm); // Toggles the form visibility
 
   return (
     <div
@@ -44,10 +44,10 @@ const Home = () => {
         </h1>
         <p style={{ fontSize: "1.2rem", maxWidth: "600px", margin: "0 auto 2rem" }}>
           We are dedicated to providing exceptional dental care in a warm and friendly environment.
-          At Highstreet Dental Clinic, your oral health is our priority, and we are committed to making every visit a positive experience for you and your family.
+          At Highstreet Dental Clinic, your oral health is our priority, and we are committed to making every visit a positive experience for you and your family. If you reside near sector-104,sector-100,sector-110,sector-75 and sector-76 Noida, we might just be one of your nearest and most reliable clinic.
         </p>
 
-        <button
+        {/* <button
           style={{
             backgroundColor: "#7aa1bf",
             color: "#fff",
@@ -63,14 +63,14 @@ const Home = () => {
           onMouseOver={(e) => (e.target.style.backgroundColor = "#2980b9")}
           onMouseOut={(e) => (e.target.style.backgroundColor = "#3498db")}
         >
-          Book an Appointment
-        </button>
+          Book an Appointment Now! 
+        </button> */}
 
-        {showForm && (
+        {/* {showForm && (
           <div style={{ marginTop: "1rem", position: "relative" }}>
             <SendMail toggleForm={toggleForm} />
           </div>
-        )}
+        )} */}
       </div>
     </div>
   );
