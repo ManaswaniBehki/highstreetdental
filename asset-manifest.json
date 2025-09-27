@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b338f894.css",
-    "main.js": "/static/js/main.f84e5a46.js",
+    "main.js": "/static/js/main.9698864b.js",
     "static/media/teeth-whitening.jpeg": "/static/media/teeth-whitening.c28790483c1d6d33cdcd.jpeg",
     "static/media/bg.jpg": "/static/media/bg.8ee03faf33051464096a.jpg",
     "static/media/smilrdesignnew.jpg": "/static/media/smilrdesignnew.2e64133134b6c6977b24.jpg",
@@ -15,10 +15,10 @@
     "static/media/dcv.jpg": "/static/media/dcv.e28f861c5e89bb29b1d8.jpg",
     "index.html": "/index.html",
     "main.b338f894.css.map": "/static/css/main.b338f894.css.map",
-    "main.f84e5a46.js.map": "/static/js/main.f84e5a46.js.map"
+    "main.9698864b.js.map": "/static/js/main.9698864b.js.map"
   },
   "entrypoints": [
     "static/css/main.b338f894.css",
-    "static/js/main.f84e5a46.js"
+    "static/js/main.9698864b.js"
   ]
 }
